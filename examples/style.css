@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    height: 100%;
+    background: #FFF;
+}
+
+canvas {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
